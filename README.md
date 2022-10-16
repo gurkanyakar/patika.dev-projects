@@ -2,4 +2,4 @@
 
 ## Patika projelerini içermektedir. [www.patika.dev]
 
-### Veri yapıları ve algoritmalar içerisinde insertion sort, merge sort ve binary search tree projeleri bulunmaktadır
+### 1-Veri yapıları ve algoritmalar içerisinde insertion sort, merge sort ve binary search tree projeleri bulunmaktadır.
